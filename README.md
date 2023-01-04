@@ -1,4 +1,4 @@
-# Tasks 
+# Internship Tasks
 
 ## Task 1 : Animate bivariate normal distribution.
 #### A. Reference Image 
